@@ -24,4 +24,4 @@ The server uses a few Forge mods for some additional features, you can grab a Tw
 
 ### SETTING UP
 
-If you need help setting the files up then feel free to contact me (NoPyro) with the discord account named above, otherwise you can ask for help in #gaming on the discord server.
+If you need help setting the files up then feel free to contact me (NoPyro) with the discord account named above, otherwise you can ask for help in #mc-help on the discord server.
