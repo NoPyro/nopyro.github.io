@@ -12,7 +12,7 @@ the invite is right here actually!
 
 2. For those who are granted permission to build on Mondstatd, do not build too close to any other house or base without the owner(s) permission.
 
-3. Be nice. This rule is an obvious one. But I need to say it don't I?)
+3. Be nice. This rule is an obvious one. But I need to say it don't I?
 
 4. EVERYONE has permission to build waystones and make them public, meaning everyone will have them unlocked immediately, FO NOT FLOOD THE GLOBAL WAYPOINT LIST, I'm trusting you with this.
 
