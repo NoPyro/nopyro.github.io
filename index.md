@@ -1,14 +1,14 @@
 # SERVER INFO
 
-Info Page for the Vanilla-esque 1.16.3 Minecraft Server at: `147.135.181.214:25587` for the SUV2 Discord Server (and some others)! **Due to previous griefing the whitelist has been enabled, contact NoPyro#6891 on discord for verification and server access.**
+Info Page for the Vanilla-esque 1.16.3 Minecraft Server at: `147.135.181.214:25587` for the Friends of NoPyro and Katateshi! **Due to previous griefing the whitelist has been enabled, contact NoPyro#6891 on discord for verification and server access.**
 
 If you wish to join 
-[Squad Up || V2](https://discord.gg/c7ECZHS){:target="_blank"}
+[The Linked Discord Server](https://discord.gg/EKTtaBq){:target="_blank"}
 the invite is right here actually!
 
 ## RULES
 
-1. Only those with explicit permission (members of the SUV2 Discord and/or mutual friends of NoPyro and Katateshi) are allowed to build on the island located at the waystone "Mondstatd"
+1. Only those with explicit permission (usually members of the SUV2 Discord and/or mutual friends of NoPyro and Katateshi) are allowed to build on the island located at the waystone "Mondstatd"
 
 2. For those who are granted permission to build on Mondstatd, do not build too close to any other house or base without the owner(s) permission.
 
