@@ -18,7 +18,7 @@ If you wish to join [Squad Up || V2](https://discord.gg/c7ECZHS){:target="_blank
 
 The server uses a few Forge mods for some additional features, you can grab a Twitch Modpack at this link. The Twitch Modpack may also be downloaded straight from the Twitch Client, this is heavily recommended:
 
-[Twitch Modpack](https://www.curseforge.com/minecraft/modpacks/zmd-modpack/){:target="_blank"}
+[Twitch Modpack](https://www.curseforge.com/minecraft/modpacks/suv2-mc-modpack){:target="_blank"}
 
 ### SETTING UP
 
