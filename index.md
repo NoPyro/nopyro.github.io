@@ -2,7 +2,9 @@
 
 Info Page for the Vanilla-esque 1.16.3 Minecraft Server at: `147.135.181.214:25587` for the SUV2 Discord Server (and some others)! **Due to previous griefing the whitelist has been enabled, contact NoPyro#6891 on discord for verification and server access.**
 
-If you wish to join [Squad Up || V2](https://discord.gg/c7ECZHS){:target="_blank"} the invite is right here actually!
+If you wish to join 
+[Squad Up || V2](https://discord.gg/c7ECZHS){:target="_blank"}
+the invite is right here actually!
 
 ## RULES
 
