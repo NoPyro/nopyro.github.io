@@ -16,6 +16,8 @@ the invite is right here actually!
 
 4. EVERYONE has permission to build waystones and make them public, meaning everyone will have them unlocked immediately, FO NOT FLOOD THE GLOBAL WAYPOINT LIST, I'm trusting you with this.
 
+5. NO GRIEFING! I THOUGHT RULE #3 MADE THIS OBVIOUS! APPARENTLY IT DOESN'T! THE RULES COUNT FOR YOU TO KATIE! IDC IF THIS IS HALF YOUR SERVER OR NOT!
+
 ## MODPACK FILES
 
 The server uses a few Forge mods for some additional features, you can grab a Twitch Modpack at this link. The Twitch Modpack may also be downloaded straight from the Twitch Client, this is heavily recommended:
